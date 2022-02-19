@@ -1,9 +1,10 @@
+<div align="center">
+
 ### Hello there 👋
 
-> I'm [**Imrane Labrahimi**](https://twitter.com/Imrane_II), a Full Stack Web Developer.
-  
+ I'm [**Imrane Labrahimi**](https://twitter.com/Imrane_II), a Full Stack Web Developer.
 
-<div align="center">
+<br/>  
 
 <img width="500" alt="Github" src="https://i.ibb.co/xLDxN4Z/animation-640-kulexrud.gif" />
 
