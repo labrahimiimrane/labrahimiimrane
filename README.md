@@ -6,7 +6,7 @@
 
 <br/>  
 
-<img width="500" alt="Github" src="https://i.ibb.co/xLDxN4Z/animation-640-kulexrud.gif" />
+<img width="500" alt="Github" src="https://i.ibb.co/cgqYtmH/48936-html.gif" />
 
 <br/> <br/> 
   
