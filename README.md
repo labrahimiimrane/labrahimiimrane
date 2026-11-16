@@ -6,7 +6,7 @@
 
 I build responsive websites with WordPress, React, and Next.js.
 
-[Portfolio](https://labrahimi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imrane-labrahimi/) · [Email](mailto:labrahimiimrane@gmail.com)
+[Portfolio](https://imranelabrahimi.me/) · [LinkedIn](https://www.linkedin.com/in/imrane-labrahimi/) · [Email](mailto:labrahimiimrane@gmail.com)
 
 </div>
 
