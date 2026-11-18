@@ -41,6 +41,9 @@ I have **7+ years of experience** building websites, from translating design han
 **Design Tools**  
 Figma · Adobe XD · Adobe Photoshop · Adobe Illustrator
 
+**Development Workflow**  
+Git · Spec-Driven Development · Claude Code · Codex · Cursor
+
 ---
 
 ## Get in Touch
