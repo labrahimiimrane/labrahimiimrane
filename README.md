@@ -14,7 +14,7 @@ I build responsive websites with WordPress, React, and Next.js.
 
 ## About
 
-I have **6+ years of experience** building websites, from translating design handoffs into polished interfaces to developing custom WordPress themes and functionality with PHP. My work also includes modern websites built with React and Next.js.
+I have **7+ years of experience** building websites, from translating design handoffs into polished interfaces to developing custom WordPress themes and functionality with PHP. My work also includes modern websites built with React and Next.js.
 
 **Available for freelance and web development projects.**
 
